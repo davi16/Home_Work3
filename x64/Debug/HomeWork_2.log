@@ -1,0 +1,13 @@
+﻿  address.c
+  arrays.c
+  date.c
+  exe.c
+  main.c
+  product.c
+  productManager.c
+  supermarket.c
+  supermarketManager.c
+  supplier.c
+  supplierManager.c
+  Generating Code...
+  HomeWork_2.vcxproj -> P:\HomeWork_2\x64\Debug\HomeWork_2.exe
